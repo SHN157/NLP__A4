@@ -1,5 +1,18 @@
 # Natural Language Inference (NLI) & Sentence Similarity Predictor
 
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Student Information](#student-information)
+- [Features](#features)
+- [Web Application Documentation](#web-application-documentation)
+- [Model Details & Training Process](#model-details--training-process)
+- [Performance Metrics](#performance-metrics)
+- [Challenges & Future Improvements](#challenges--future-improvements)
+- [Project Directory Structure](#project-directory-structure)
+
+---
+...
+
 ## **Project Overview**
 This project implements a **Natural Language Inference (NLI) & Sentence Similarity Predictor** using a custom-trained **BERT model**. The application allows users to input a **Premise** and a **Hypothesis**, and it predicts the **relationship** between them (**Entailment, Neutral, or Contradiction**) while also computing the **cosine similarity score**.
 
