@@ -27,11 +27,11 @@ The **web app is implemented using Streamlit** and runs locally.
 ---
 
 ## **Features**
-✅ **Natural Language Inference (NLI)** - Classifies relationships as **Entailment, Neutral, or Contradiction**  
-✅ **Sentence Similarity** - Computes a **cosine similarity score** between two sentences  
-✅ **Fine-tuned BERT Model** - Uses a custom BERT model trained on SNLI and MNLI datasets  
-✅ **Streamlit Web App** - Interactive UI for easy experimentation  
-✅ **Optimized for Local Execution** - No deployment required  
+ **Natural Language Inference (NLI)** - Classifies relationships as **Entailment, Neutral, or Contradiction**  
+ **Sentence Similarity** - Computes a **cosine similarity score** between two sentences  
+ **Fine-tuned BERT Model** - Uses a custom BERT model trained on SNLI and MNLI datasets  
+ **Streamlit Web App** - Interactive UI for easy experimentation  
+ **Optimized for Local Execution** - No deployment required  
 
 ---
 
